@@ -1,0 +1,121 @@
+/*The OrderList List Screen */
+.pos .sale-orderlist-screen .sale-order-list,
+.pos .invoice-list-screen .order-invoice-list {
+    font-size: 16px;
+    width: 100%;
+    line-height: 40px;
+}
+
+.pos .sale-orderlist-screen .sale-order-list th, .pos .sale-orderlist-screen .sale-order-list td,
+.pos .invoice-list-screen .order-invoice-list th, .pos .invoice-list-screen .order-invoice-list td
+{
+    padding: 0px 5px;
+}
+
+.pos .sale-orderlist-screen .sale-order-list tr ,
+.pos .invoice-list-screen .order-invoice-list tr ,{
+    transition: all 150ms linear;
+    background: rgb(230, 230, 230);
+}
+
+.pos .sale-orderlist-screen .sale-order-list thead>tr, .pos .sale-orderlist-screen .sale-order-list tr:nth-child(even),
+.pos .invoice-list-screen .order-invoice-list thead>tr, .pos .invoice-list-screen .order-invoice-list tr:nth-child(even)
+{
+    background: rgb(247, 247, 247);
+}
+
+.pos .sale-orderlist-screen .sale-order-list tr.highlight,
+.pos .invoice-list-screen .order-invoice-list tr.highlight {
+    transition: all 150ms linear;
+    background: rgb(110, 200, 155) !important;
+    color: white;
+}
+
+.pos .sale-orderlist-screen .sale-order-list tr.lowlight,
+.pos .invoice-list-screen .order-invoice-list tr.lowlight {
+    transition: all 150ms linear;
+    background: rgb(216, 238, 227);
+}
+
+.pos .sale-orderlist-screen .sale-order-list tr.lowlight:nth-child(even),
+.pos .invoice-list-screen .order-invoice-list tr.lowlight:nth-child(even) {
+    transition: all 150ms linear;
+    background: rgb(227, 246, 237);
+}
+
+/* .screen .top-content .filter { */
+/*     margin-left: 10px; */
+/*     margin-top: 15px; */
+/* } */
+
+/* .screen .top-content .button.paid { */
+/*     left: 0px; */
+/*     margin-left: 136px; */
+/* } */
+
+.sale-orderlist-screen .top-content .button.draft {
+    left: 0px;
+    margin-left: 250px;
+}
+
+/* .screen .top-content .button.confirm { */
+/*     left: 0px; */
+/*     margin-left: 410px; */
+/* } */
+/* .screen .top-content .button.my_orders { */
+/*     left: 0px; */
+/*     margin-left: 545px; */
+/* } */
+
+/* .screen .top-content .button.date { */
+/*     left: 0px; */
+/*     margin-left: 536px; */
+/*     z-index: 100; */
+/* } */
+
+.invoice-list-screen .button.draft {
+    left: 0px;
+    margin-left: 120px;
+}
+.invoice-list-screen .button.open {
+    left: 0px;
+    margin-left: 235px;
+}
+
+
+
+/* .screen .top-content .button.not-selected { */
+/*     background: rgb(230, 230, 230); */
+/*     color: #000; */
+/* } */
+
+/* .screen .top-content .button.selected { */
+/*     background: #088000; */
+/*     color: #FFF; */
+/* } */
+
+/* .pos .sale-orderlist-screen .searchbox { */
+/*     right: auto; */
+/*     margin-left: -150px; */
+/*     margin-top: 8px; */
+/*     left: 92%; */
+}
+
+/* .screen .top-content .button.not-selected { */
+/*     background: rgb(230, 230, 230); */
+/* } */
+
+/* .pos .sale-orderlist-screen .searchbox input { */
+/*     width: 120px; */
+/* } */
+
+/* .screen .top-content .date-filter input { */
+/*     margin-top: 13px; */
+/*     margin-left: 356px; */
+/*     width: 150px; */
+/*     height: 27px */
+/* } */
+
+/* .screen .top-content .date-filter i { */
+/*     height: 20px; */
+/* } */

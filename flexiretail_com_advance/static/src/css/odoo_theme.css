@@ -1,0 +1,763 @@
+.pos .paymentlines tbody tr td {
+	border-bottom: 1px solid #333;
+}
+
+.pos textarea:focus {
+	box-shadow: none;
+}
+
+.pos #draggablePanelList_sale_note .panel-heading {
+	background-color: #6cc49b;
+	color: #fff;
+}
+
+.pos .sale-orderlist-screen .sale-line, .pos .invoice-list-screen .invoice-line
+	{
+	border-bottom: 1px solid #333;
+}
+
+.pos .payment-screen .payment-numpad .quickpay_credit_paymenttable td .button
+	{
+	color: #fff;
+	background: #9e9e9e;
+	border: 1px solid;
+}
+
+.pos .payment-screen .quickpay_credit_paymenttable td .account_pay {
+	background: #7882a6 !important;
+	border: 1px solid;
+	color: #fff;
+}
+
+.pos .quickpay_credit_paymenttable1 tr {
+	color: #959595;
+	border: none;
+}
+
+.pos .paymentmethods .control-button:hover {
+	background: #7882a6;
+}
+
+.ui-widget-header {
+	border: 1px solid #333;
+	background-color: #333;
+	color: #ffffff;
+}
+
+.pos .leftpane #total_pay {
+	border-bottom: 1px solid #333;
+}
+
+.pos .paymentline td {
+	border-bottom: 1px solid;
+}
+
+.pos input:focus, .pos input {
+	border: 1px solid;
+}
+
+.pos .pos-rightheader>* {
+	border-right: 1px solid #fff;
+}
+
+.control-button.paymentmethod {
+	background: #7882a6;
+	color: #fff;
+}
+
+.pos .paymentlines tbody {
+	border-radius: 3px;
+	background: transparent;
+}
+
+.sales-deshboard-graph-screen .user-welcome-message {
+	border-right: 1px solid #fff;
+}
+
+.sales-deshboard-graph-screen .summary-expiry-product {
+	border-right: 1px solid #fff;
+}
+
+.sales-deshboard-graph-screen .summary-active-session {
+	border-right: 1px solid #fff;
+}
+
+.sales-deshboard-graph-screen .summary-active-session {
+	border-right: 1px solid #fff;
+}
+
+.sales-deshboard-graph-screen .Graphical-report-container {
+	border: 1px solid #3e3e3e;
+}
+
+.out-stock-list-product.main-product {
+	border-bottom: 1px solid #3e3e3e;
+}
+
+.pos .product .product-qty {
+	color: #fff;
+	background: #3e3e3e;
+}
+
+.product.product_content.select_item {
+	box-shadow: 0 0 11px 0 #333;
+	border-width: 2px;
+}
+
+.pos a, .pos .button, .pos input, .pos select, .pos span, .pos tr, .pos td,
+	.pos th {
+	/* color: #333; */
+	
+}
+
+.selected_chart {
+	color: #3b3b3b !important;
+}
+
+.screen .top-content .button.next {
+	background: #3e3e3e;
+	color: #fff;
+}
+
+.select_location_type {
+	border: 1px solid #3e3e3e;
+}
+
+.pos .mode-button.selected-mode:hover, .sidebar-nav li a:hover,
+	.ac_product_list_manage.list .header {
+	background: #3E3E3E;
+	color: #fff;
+}
+
+.screen .top-content .date-filter input {
+	border: 1px solid #3e3e3e;
+}
+
+.out-stock-list-product.main-product {
+	border-bottom: 1px solid #3e3e3e;
+}
+
+#slidemenubtn {
+	background: #f0eeee;
+}
+
+#message_icon {
+	color: #fff !important;
+}
+
+.pos .popup #lot_list {
+	border: 1px solid #3e3e3e;
+}
+
+/* login screen */
+.pos button {
+	font-family: nexa-regular;
+}
+
+.product.out-stock-main-product.highlight {
+	border: 3px solid #3e3e3e;
+	box-shadow: 1px 3px 3px 0 #3e3e3e;
+}
+
+.pos .logo-container .input::placeholder {
+	color: #333;
+}
+
+.input-fields>input::-moz-placeholder, .input-fields>input:focus {
+	color: #333;
+}
+
+.pos .pos-login-topheader {
+	background-color: #3e3e3e;
+}
+
+.pos .panel-container {
+	box-shadow: 0 0px 5px 0px #333;
+}
+
+.pos .input-fields>input {
+	border: 1px solid #3e3e3e;
+	border-color: #2F496E;
+	background: transparent;
+}
+
+.pos-login .action>input {
+	background-color: #6cc49b;
+	color: #fff;
+}
+
+.pos-login .number_pad_button {
+	background: #7a82a6 none repeat scroll 0 0;
+	color: #fff !important;
+	box-shadow: 0 2px 5px 0 #333;
+}
+
+.pos .order .orderline.selected {
+	background: rgb(191, 187, 187);
+}
+
+.pos-login .change_char, .change_smallChar, .change_num, .ac-clear-data
+	{
+	background: #7a82a6 none repeat scroll 0 0 !important;
+	color: #fff !important;
+}
+
+.pos-login input, btn {
+	font-family: nexa-regular;
+}
+/* login screen */
+
+/* Home screen */
+.pos .pos-topheader {
+	background: #3e3e3e;
+}
+
+.pos .pos-topheader a {
+	color: #fff;
+}
+
+.pos .leftpane .pads {
+	border-top: none;;
+}
+
+.pos .clientlist-screen .client-list tr.highlight {
+	transition: all 150ms linear;
+	background: #6cc49b;
+	color: #fff;
+}
+
+.pos .clientlist-screen .client-list tr.lowlight:nth-child(even) {
+	transition: all 150ms linear;
+	background: #3e3e3e;
+	color: #fff;
+}
+
+.pos .clientlist-screen .client-list tr {
+	transition: all 150ms linear;
+	background: none;
+	border-bottom: 1px solid #3e3e3e;
+}
+
+.screen .top-content .button.back {
+	background: #3e3e3e;
+	border: 1px solid #3e3e3e;
+}
+
+.pos .control-button.highlight, .pos .button.highlight {
+	background: #7a82a6 !important;
+	border: solid 1px #3e3e3e !important;
+	color: white !important;
+}
+
+.pos .pos-topheader span.order-button.lock_button i {
+	color: #333;
+}
+
+.pos .pos-topheader .order-button.square {
+	background: #9e9e9e;
+	color: rgb(0, 0, 0);
+	box-shadow: none;
+}
+
+.pos .order-button {
+	background: #ececed;
+	color: #333;
+	box-shadow: none;
+}
+
+.pos .pos-topheader .order-button .select-order .selected  order-button select-order selected
+	{
+	background: #eeeeef;
+	color: #333;
+}
+
+.pos .pos-topheader i #message_icon {
+	color: #fff;
+}
+
+.pos .pos-cart-info {
+	background: #ececed;
+}
+
+.pos .actionpad .button:hover {
+	background: #3e3e3e;
+	color: #fff;
+}
+
+.content-list-ul li:hover {
+	background: #3e3e3e none repeat scroll 0 0;
+	color: #fff;
+}
+
+.pos .screen {
+	background: #ffffff;
+}
+
+.pos .rightpane-header, .pos .leftpane, .pos .order-container, .pos .order
+	{
+	background: #ffffff;
+}
+
+.pos .actionpad .button {
+	background: transparent;
+	color: #333;
+}
+
+.pos .numpad .input-button, .pos .numpad .mode-button {
+	background: transparent;
+	color: #333;
+}
+
+.pos .actionpad, .pos .numpad, .pos .numpad button, .pos .actionpad .button
+	{
+	border-color: #333;
+	font-weight: normal;
+}
+
+.pos .mode-button.selected-mode {
+	background: #6cc49b;
+	color: white;
+	border-bottom: 1px solid #333;
+	border-right: 1px solid #333;
+}
+
+.pos .product .price-tag {
+	background: #3e3e3e;
+}
+
+.pos .product {
+	border: 1px solid #3e3e3e;
+	box-shadow: 0px 0px 2px 1px #333;
+}
+
+#left-sidebar-content {
+	border-right: 1px solid #3e3e3e;
+}
+
+.pos .leftpane {
+	border-right: solid 1px #3e3e3e;
+}
+
+.pos .rightpane .brand_searchbox input, .pos .rightpane .category_searchbox input,
+	.pos .rightpane .searchbox input {
+	border: 1px solid #3e3e3e;
+}
+
+.pos .leftpane .cart-customer-section {
+	border-bottom: 1px solid #3e3e3e;
+}
+
+.pos .rightpane .brand_searchbox input, .pos .rightpane .category_searchbox input,
+	.pos .rightpane .searchbox input {
+	background: url(/point_of_sale/static/src/css/../img/search.png)
+		no-repeat 15px;
+	background-color: white;
+}
+
+.pos .rightpane-header {
+	border-bottom: 1px solid #3e3e3e;
+}
+
+/* Home screen */
+
+/* Product screen */
+.productlist-screen .pro_width_set2 .pro_width_set3 input {
+	border: 1px solid #3e3e3e;
+}
+
+/* Product screen */
+/* ordrer screen */
+.orderlist-screen .order_set_width_right .orderbtn input {
+	border: 1px solid #3e3e3e;
+}
+
+.orderlist-screen .gift_order_set1 .giftorderbtn input {
+	border: 1px solid #3e3e3e;
+}
+
+.giftvoucherlist-screen .voucher_right_width .voucherbtn input {
+	border: 1px solid #3e3e3e;
+}
+
+/* ordrer screen */
+.main-screen-container .report-header {
+	background: #6cc49b;
+	color: #fff;
+}
+
+.input-textbox {
+	background: #e6e6e6;
+	border: 1px solid #3e3e3e;
+	transition: all 150ms linear 0s;
+}
+
+.pos .popup .title {
+	background: #6cc49b;
+	color: #fff;
+}
+
+.inventory-report-popup .inventory_report_table tr {
+	border-bottom: 1px solid #CCC;
+}
+
+.sales-deshboard-graph-screen .expired-by-product-title {
+	background: #3e3e3e;
+	color: #fff;
+}
+
+.sales-deshboard-graph-screen .warehouse-list thead>tr,
+	.sales-deshboard-graph-screen .warehouse-list tr th {
+	background: #6cc49b;
+	color: #333;
+}
+
+.main-screen-container .expired-by-product-title, .main-screen-container .warehouse-container-title-bar,
+	.main-screen-container .location-container-title-bar {
+	background: #3E3E3E;
+	color: #fff;
+}
+
+.warehouse-list th, .location-list th {
+	background: #6cc49b;
+	color: #fff;
+}
+
+.warehouse-wise-product-expire .warehouse-list,
+	.location-wise-product-expire .location-list {
+	box-shadow: 0 0 5px 0 #333;
+}
+
+.sidebar-nav li a.item {
+	color: #333;
+}
+
+.pos .clientlist-screen .client-list th, .pos .clientlist-screen .client-list tr th
+	{
+	background: #3e3e3e;
+	color: #fff;
+}
+
+.screen .top-content {
+	border-bottom: 1px solid #3e3e3e;
+}
+
+.pos .clientlist-screen .client-details input, .pos .clientlist-screen .client-details select
+	{
+	border: 1px solid #3e3e3e;
+}
+
+.pos .clientlist-screen .client-details {
+	border-bottom: solid 1px #333;
+}
+
+.clientlist-screen .input_map_search {
+	border: 1px solid #cecbcb;
+	background-color: white;
+}
+
+.pos .payment-buttons .control-button {
+	background: #9e9e9e;
+	color: #fff;
+}
+
+.payment-screen .paymentlines-empty .total {
+	color: #3e3e3e;
+}
+
+.pos .paymentlines tr th {
+	background: #3e3e3e;
+	color: #fff;
+}
+
+.pos .paymentline.selected {
+	font-size: 22px;
+	background: #6bc49b;
+	color: #333;
+}
+
+.pos .paymentlines {
+	box-shadow: 0 0 5px 0 #333;
+}
+
+.pos .paymentline.selected .edit {
+	box-shadow: 0px 0px 0px 0px #3e3e3e;
+	color: #333;
+}
+
+.sidebar-nav li a {
+	text-decoration: none;
+	color: #565656 !important;
+}
+
+.popup .footer .button {
+	background: #3e3e3e;
+	color: #fff;
+}
+
+.pos .order-list .bgcolorset th, .pos .giftcard-list .bgcolorset1 th,
+	.pos .giftvoucher-list .bgcolorset1 th, .pos .sale-orderlist-screen .bgcolorset th,
+	.pos .invoice-list-screen .bgcolorset th {
+	background: #3e3e3e;
+	color: #fff;
+}
+
+.pos #divMenu li {
+	background: #e6e6e6;
+	border: 1px solid #3b3b3b;
+}
+
+.screen .left-content {
+	border-right: 1px solid #3e3e3e;
+}
+
+.pos .payment-numpad .numpad {
+	border-color: #3e3e3e;
+	border-bottom: 1px solid;
+}
+
+.pos .paymentlines-container {
+	border-bottom: solid 1px #3e3e3e;
+}
+
+.pos .actionpad .button:hover {
+	background: #7982a6;
+	color: #fff;
+}
+
+.pos .searchbox input:focus {
+	outline: none;
+	box-shadow: 0px 0px 0px 0px #333 inset;
+	color: #333;
+}
+
+.sidebar-nav {
+	background: #f1eeef;
+}
+
+.sidebar-nav li {
+	border: 1px solid #f1eeef;
+}
+
+#sidebar-wrapper {
+	background: #f1eeef;
+}
+
+#slidemenubtn>a {
+	color: #3e3e3e;
+}
+
+.pos .popup input:focus, .pos .popup-input.active {
+	outline: none;
+	box-shadow: 0 0 3px 0 #333;
+}
+
+.ac_product_list_manage.list span.product.main-product {
+	border: 1px solid #3e3e3e;
+}
+
+.pos .numpad button:hover {
+	background: #3e3e3e;
+	color: #fff;
+}
+
+.screen .top-content .button {
+	border: 1px solid #3e3e3e;
+}
+
+.pos .clientlist-screen .client-list tr.lowlight {
+	transition: all 150ms linear;
+	background: #3e3e3e;
+	color: #fff;
+}
+
+.pos .searchbox input {
+	border: 1px solid #3e3e3e;
+	background-color: white;
+}
+
+.screen .top-content .button.selected {
+	background: #3e3e3e;
+	color: #FFF;
+}
+
+.pos .actionpad .button.pay .pay-circle {
+	background: #959595;
+	color: white;
+}
+
+.pos .actionpad .button:hover .pay-circle {
+	background: #fff;
+	color: rgb(55, 93, 150);
+}
+
+.pos .orderlist-screen .order-list thead>tr, .pos .orderlist-screen .order-list tr:nth-child(even)
+	{
+	background: transparent;
+}
+
+.pos .orderlist-screen .order-list tr, .pos .orderlist-screen .giftcard-list tr,
+	.pos .giftvoucherlist-screen .giftvoucher-list tr {
+	transition: all 150ms linear;
+	background: transparent;
+	border-bottom: 1px solid #3e3e3e;
+}
+
+.pos .actionpad .button.pay .pay-circle:hover {
+	background: rgb(255, 255, 255);
+	color: #3e3e3e;
+}
+
+.pos .paymentline .col-change.highlight {
+	background: #3e3e3e;
+	color: #fff;
+}
+
+.today-report tr.header {
+	background: #333;
+	color: #fff;
+}
+
+.pos .mode-button.selected-mode:hover {
+	background: #3e3e3e;
+	color: white;
+	border-color: #333;
+}
+
+.sales-deshboard-graph-screen .warehouse-list {
+	box-shadow: 0 0 5px 0 #333;
+}
+
+.pos .payment-screen .delivery_table td, .pos .payment-screen .delivery_table td input
+	{
+	border: 1px solid #3e3e3e;
+}
+
+.product-details-box .product-detail input, .product-details-box .product-detail select
+	{
+	border: 1px solid #3e3e3e;
+}
+
+.pos .popup .footer {
+	border-top: solid 1px #3e3e3e;
+}
+
+#detailed_top_product_data {
+	box-shadow: 0 0 5px 0 #333;
+}
+
+.tabs-menu li.current {
+	background: #6cc49b;
+	color: #fff;
+}
+
+.pos .popup .pos_close_popup {
+	background-color: #3e3e3e;
+}
+
+.pos .popup.lock_popup {
+	background-color: #7982a6;
+}
+
+.close-lock-btn, .close-popup-btn {
+	background: #6bc49b;
+	color: #333;
+}
+
+.product-detail-list thead tr {
+	background: #3e3e3e;
+	color: #fff;
+}
+
+#search_category {
+	color: #333;
+	border: 1px solid #333;
+}
+
+.pos .lock-btn span {
+	border: 1px solid #fff;
+}
+
+.pos .popup.lock_popup {
+	border: 10px solid #fff;
+}
+
+.pos .popup.pos_close_popup {
+	background-color: #3e3e3e;
+}
+
+.close-pos-btn span {
+	border: 1px solid #fff;
+}
+
+.pos .selected-menu {
+	background: #6cc49b;
+}
+
+/* .pos .oe_statu .oe_green, .pos .oe_icon.oe_green {
+	color: rgb(240, 238, 238);
+} */
+.sidebar-nav li a:hover {
+	color: #fff !important;
+	background: #3e3e3e;
+}
+
+.pos .graph-screen .selected_chart {
+	background: #3e3e3e !important;
+	color: white !important;
+}
+
+.pos .graph-screen  .menu_selected {
+	background: #3e3e3e !important;
+	color: white !important;
+}
+
+#duration_selection, #limit_selection {
+	border: 1px solid #3e3e3e;
+}
+
+#order_note {
+	border: 1px solid #3e3e3e;
+}
+
+#draggablePanelList .panel-heading {
+	background-color: #6ec89b;
+	color: #333;
+}
+
+button#first {
+	color: #fff !important;
+	background: #3e3e3e !important;
+	border: none;
+}
+
+button#previous {
+	color: #fff !important;
+	background: #3e3e3e !important;
+	border: none;
+}
+
+button#next {
+	color: #fff !important;
+	background: #3e3e3e !important;
+	border: none;
+}
+
+button#last {
+	color: #fff !important;
+	background: #3e3e3e !important;
+	border: none;
+}
+
+.pos .out_stock_header {
+	background: #3e3e3e;
+	color: #fff;
+}
+
+.pos_tab_session button.active {
+	background: #6bc49b;
+}
+
+.pos .order-button.selected {
+	background: #ececed;
+	color: #333;
+}

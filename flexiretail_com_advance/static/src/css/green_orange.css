@@ -1,0 +1,757 @@
+.pos .paymentlines tbody tr td {
+	border-bottom: 1px solid #75af49;
+}
+
+.pos textarea:focus {
+	box-shadow: none;
+}
+
+.pos #draggablePanelList_sale_note .panel-heading {
+	background-color: #acd5d7;
+	color: #333;
+}
+
+.pos .screen .top-content .button:hover {
+	background: #f3b695;
+}
+
+.pos .sale-orderlist-screen .sale-line, .pos .invoice-list-screen .invoice-line
+	{
+	border-bottom: 1px solid #7BB046;
+}
+
+.pos .payment-screen .payment-numpad .quickpay_credit_paymenttable td .button
+	{
+	color: #fff;
+	background: #7BB046;
+	border: 1px solid;
+}
+
+.pos .payment-screen .quickpay_credit_paymenttable td .account_pay {
+	background: #ACD5D7 !important;
+	border: 1px solid;
+	color: #333 !important;
+}
+
+.pos .quickpay_credit_paymenttable1 tr {
+	color: #959595;
+	border: none;
+}
+
+.sales-deshboard-graph-screen .user-welcome-message {
+	border-right: 1px solid #fff;
+}
+
+.sales-deshboard-graph-screen .summary-expiry-product {
+	border-right: 1px solid #fff;
+}
+
+.sales-deshboard-graph-screen .summary-active-session {
+	border-right: 1px solid #fff;
+}
+
+.sales-deshboard-graph-screen .summary-active-session {
+	border-right: 1px solid #fff;
+}
+
+.sales-deshboard-graph-screen .Graphical-report-container {
+	border: 1px solid #7BB046;
+}
+
+.pos .product .product-qty {
+	color: #fff;
+	background: #7BB046;
+}
+
+.pos .fa.fa-fw.fa-wifi {
+	color: #fff !important;
+}
+
+.out-stock-list-product.main-product {
+	border-bottom: 1px solid #7BB046;
+}
+
+.product.product_content.select_item {
+	box-shadow: 0 0 11px 0 #333;
+	border-width: 2px;
+}
+
+.selected_chart {
+	color: #3b3b3b !important;
+}
+
+.select_location_type {
+	border: 1px solid #7BB046;
+}
+
+.pos .mode-button.selected-mode:hover, .sidebar-nav li a:hover,
+	.ac_product_list_manage.list .header {
+	background: #7BB046;
+	color: #fff;
+}
+
+.screen .top-content .date-filter input {
+	border: 1px solid #7BB046;
+}
+
+.out-stock-list-product.main-product {
+	border-bottom: 1px solid #7bb046;
+}
+
+#slidemenubtn {
+	background: #f0eeee;
+}
+
+#message_icon {
+	color: #fff !important;
+}
+
+.pos .popup #lot_list {
+	border: 1px solid #333;
+}
+/* login screen */
+.pos button {
+	font-family: nexa-regular;
+}
+
+.product.out-stock-main-product.highlight {
+	border: 3px solid #7BB046;
+	box-shadow: 1px 3px 3px 0 #7BB046;
+}
+
+.pos .logo-container .input::placeholder {
+	color: #333;
+}
+
+.input-fields>input::-moz-placeholder, .input-fields>input:focus {
+	color: #333;
+}
+
+.pos .pos-login-topheader {
+	background-color: #7BB046;
+}
+
+.pos .panel-container {
+	box-shadow: 0 0px 5px 0px #333;
+}
+
+.pos .input-fields>input {
+	border: 1px solid #7BB046;
+	border-color: #2F496E;
+	background: transparent;
+}
+
+.pos-login .action>input {
+	background-color: #7BB046;
+	color: #fff;
+}
+
+.pos-login .number_pad_button {
+	background: #DEAF82 none repeat scroll 0 0;
+	color: #333 !important;
+	box-shadow: 0 2px 5px 0 #333;
+}
+
+.pos .order .orderline.selected {
+	background: #e8d2be;
+}
+
+.pos-login .change_char, .change_smallChar, .change_num, .ac-clear-data
+	{
+	background: #DEAF82 none repeat scroll 0 0 !important;
+	color: #333;
+}
+
+.pos-login input, btn {
+	font-family: nexa-regular;
+}
+/* login screen */
+
+/* Home screen */
+.pos .pos-topheader {
+	background: #7BB046;
+}
+
+.pos .pos-topheader a {
+	color: #fff;
+}
+
+.pos .pos-topheader a i {
+	/* color: #fff; */
+	
+}
+
+.pos .leftpane .pads {
+	border-top: none;
+}
+
+.pos .clientlist-screen .client-list tr.highlight {
+	transition: all 150ms linear;
+	background: rgb(172, 213, 215) !important;
+	color: #333333;
+}
+
+.pos .clientlist-screen .client-list tr.lowlight:nth-child(even) {
+	transition: all 150ms linear;
+	background: rgb(222, 175, 130);
+	color: #333;
+}
+
+.pos .clientlist-screen .client-list tr {
+	transition: all 150ms linear;
+	background: none;
+	border-bottom: 1px solid #75af49;
+}
+
+.screen .top-content .button.back {
+	background: #ACD5D7;
+	color: #333;
+	border: 1px solid #75af49;
+}
+
+.pos .control-button.highlight, .pos .button.highlight {
+	background: #75af49 !important;
+	border: solid 1px #75af49 !important;
+	color: white !important;
+}
+
+.pos .out_stock_header {
+	background: #375c95;
+	color: #fff;
+}
+
+.pos .pos-topheader span.order-button.lock_button i {
+	color: #333;
+}
+
+.pos .pos-topheader .order-button.square {
+	background: #eeeeef;
+	color: rgb(0, 0, 0);
+	box-shadow: none;
+}
+
+.pos .order-button {
+	background: #acd5d7;
+	color: #333;
+	box-shadow: none;
+}
+
+.pos .pos-topheader .order-button .select-order .selected  order-button select-order selected
+	{
+	background: #eeeeef;
+	color: #333;
+}
+
+.pos .pos-topheader i #message_icon {
+	color: #fff;
+}
+
+.pos .pos-cart-info {
+	background: #fff;
+}
+
+.pos .actionpad .button:hover {
+	background: #75af49;
+	color: #fff;
+}
+
+.content-list-ul li:hover {
+	background: #75af49 none repeat scroll 0 0;
+	color: #fff;
+}
+
+.pos .screen {
+	background: #F0EEEE;
+}
+
+.pos .rightpane-header, .pos .leftpane, .pos .order-container, .pos .order
+	{
+	background: #F0EEEE;
+}
+
+.pos .actionpad .button {
+	background: #f0eeee;
+	color: #333;
+}
+
+.pos .numpad .input-button, .pos .numpad .mode-button {
+	background: #f0eeee;
+	color: #333;
+}
+
+.pos .actionpad, .pos .numpad, .pos .numpad button, .pos .actionpad .button
+	{
+	border-color: #7bb046;
+	font-weight: normal;
+}
+
+.pos .mode-button.selected-mode {
+	background: #7bb046;
+	color: white;
+	border-bottom: 1px solid #7bb046;
+	border-right: 1px solid #7bb046;
+}
+
+.pos .product .price-tag {
+	background: #8EB26E;
+}
+
+.pos .product {
+	border: 1px solid #75af49;
+	box-shadow: 1px 3px 3px 0 #333;
+}
+
+#left-sidebar-content {
+	border-right: solid 1px #7BB046;
+}
+
+.pos .leftpane {
+	border-right: solid 1px #75af49;
+}
+
+.pos .rightpane .brand_searchbox input, .pos .rightpane .category_searchbox input,
+	.pos .rightpane .searchbox input {
+	border: 1px solid #75af49;
+}
+
+.pos .leftpane .cart-customer-section {
+	border-bottom: 1px solid #75af49;
+}
+
+.pos .rightpane .brand_searchbox input, .pos .rightpane .category_searchbox input,
+	.pos .rightpane .searchbox input {
+	background: url(/point_of_sale/static/src/css/../img/search.png)
+		no-repeat 15px;
+	background-color: white;
+}
+
+.pos .rightpane-header {
+	border-bottom: 1px solid #75af49;
+}
+
+/* Home screen */
+
+/* Product screen */
+.productlist-screen .pro_width_set2 .pro_width_set3 input {
+	border: 1px solid #75af49;
+}
+
+/* Product screen */
+/* ordrer screen */
+.orderlist-screen .order_set_width_right .orderbtn input {
+	border: 1px solid #75af49;
+}
+
+.orderlist-screen .gift_order_set1 .giftorderbtn input {
+	border: 1px solid #75af49;
+}
+
+.giftvoucherlist-screen .voucher_right_width .voucherbtn input {
+	border: 1px solid #75af49;
+}
+
+/* ordrer screen */
+.main-screen-container .report-header {
+	background: #75af49;
+	color: #fff;
+}
+
+.input-textbox {
+	background: #e6e6e6;
+	border: 1px solid #75af49;
+	transition: all 150ms linear 0s;
+}
+
+.pos .popup .title {
+	background: #75af49;
+	color: #fff;
+}
+
+.inventory-report-popup .inventory_report_table tr {
+	border-bottom: 1px solid #CCC;
+}
+
+.sales-deshboard-graph-screen .expired-by-product-title {
+	background: #75af49;
+	color: #fff;
+}
+
+.sales-deshboard-graph-screen .warehouse-list thead>tr,
+	.sales-deshboard-graph-screen .warehouse-list tr th {
+	background: #DEAF82;
+	color: #333;
+}
+
+.main-screen-container .expired-by-product-title, .main-screen-container .warehouse-container-title-bar,
+	.main-screen-container .location-container-title-bar {
+	background: #75af49;
+	color: #fff;
+}
+
+.warehouse-list th, .location-list th {
+	background: #e6e6e6;
+	color: #333;
+}
+
+.warehouse-wise-product-expire .warehouse-list,
+	.location-wise-product-expire .location-list {
+	box-shadow: 0 0 5px 0 #333;
+}
+
+.sidebar-nav li a.item {
+	color: #333;
+}
+
+.pos .clientlist-screen .client-list th, .pos .clientlist-screen .client-list tr th
+	{
+	background: #75af49;
+	color: #fff;
+}
+
+.screen .top-content {
+	border-bottom: 1px solid #7BB046;
+}
+
+.pos .clientlist-screen .client-details input, .pos .clientlist-screen .client-details select
+	{
+	border: 1px solid #7BB046;
+}
+
+.pos .clientlist-screen .client-details {
+	border-bottom: solid 1px #7bb046;
+}
+
+.clientlist-screen .input_map_search {
+	border: 1px solid #cecbcb;
+	background-color: white;
+}
+
+.pos .payment-buttons .control-button {
+	background: #75af49;
+	color: #f0eeee;
+}
+
+.payment-screen .paymentlines-empty .total {
+	color: #75af49;
+}
+
+.pos .paymentlines tr th {
+	background: #75af49;
+	color: #fff;
+}
+
+.pos .paymentline.selected {
+	font-size: 22px;
+	background: #acd5d7;
+	color: #333;
+}
+
+.pos .paymentlines {
+	box-shadow: 0 0 5px 0 #333;
+}
+
+.pos .paymentline.selected .edit {
+	box-shadow: 0px 0px 0px 0px #7bb046;
+	color: #fff;
+	background: #7bb046;
+}
+
+.sidebar-nav li a {
+	text-decoration: none;
+	color: #565656 !important;
+}
+
+.popup .footer .button {
+	background: #DEAF82;
+	color: #333;
+}
+
+.pos .order-list .bgcolorset th, .pos .giftcard-list .bgcolorset1 th,
+	.pos .giftvoucher-list .bgcolorset1 th, .pos .sale-orderlist-screen .bgcolorset th,
+	.pos .invoice-list-screen .bgcolorset th {
+	background: #75af49;
+	color: #fff;
+}
+
+.pos #divMenu li {
+	background: #e6e6e6;
+	border: 1px solid #3b3b3b;
+}
+
+.screen .left-content {
+	border-right: 1px solid #75af49;
+}
+
+.pos .payment-numpad .numpad {
+	border-color: #75af49;
+	border-bottom: 1px solid #75af49;
+}
+
+.pos .paymentlines-container {
+	border-bottom: solid 1px #75af49;
+}
+
+.pos .actionpad .button:hover {
+	background: #75af49;
+	color: #fff;
+}
+
+.pos input:focus {
+	box-shadow: 0px 0px 0px 1px #7bb046 inset;
+}
+
+.pos .searchbox input:focus {
+	outline: none;
+	box-shadow: 0px 0px 0px 1px #7bb046 inset;
+	color: #333;
+}
+
+.sidebar-nav {
+	background: #f1eeef;
+}
+
+.sidebar-nav li {
+	border: 1px solid #f1eeef;
+}
+
+#sidebar-wrapper {
+	background: #f1eeef;
+}
+
+#slidemenubtn>a {
+	color: #75af49;
+}
+
+.pos .popup input:focus, .pos .popup-input.active {
+	outline: none;
+	box-shadow: 0px 0px 0px 2px #7bb046;
+}
+
+.ac_product_list_manage.list span.product.main-product {
+	border: 1px solid #75af49;
+}
+
+.pos .numpad button:hover {
+	background: #75af49;
+	color: #fff;
+}
+
+.screen .top-content .button {
+	border: solid 1px #7bb046;
+	background: #f3b695;
+}
+
+.pos .clientlist-screen .client-list tr.lowlight {
+	transition: all 150ms linear;
+	background: #7bb046;
+	color: #fff;
+}
+
+.pos .searchbox input {
+	border: 1px solid #75af49;
+	background-color: white;
+}
+
+.screen .top-content .button.selected {
+	background: #75af49;
+	color: #FFF;
+}
+
+.pos .actionpad .button.pay .pay-circle {
+	background: rgb(123, 176, 70);
+	color: white;
+}
+
+.pos .actionpad .button:hover .pay-circle {
+	background: #fff;
+	color: rgb(117, 175, 73);;
+}
+
+.pos .orderlist-screen .order-list thead>tr, .pos .orderlist-screen .order-list tr:nth-child(even)
+	{
+	background: transparent;
+}
+
+.pos .orderlist-screen .order-list tr, .pos .orderlist-screen .giftcard-list tr,
+	.pos .giftvoucherlist-screen .giftvoucher-list tr {
+	transition: all 150ms linear;
+	background: transparent;
+	border-bottom: 1px solid #75af49;
+}
+
+.pos .actionpad .button.pay .pay-circle:hover {
+	background: rgb(255, 255, 255);
+	color: #75af49;
+}
+
+.pos .paymentline .col-change.highlight {
+	background: #f3b695;
+	color: #333;
+}
+
+.today-report tr.header {
+	background: #7bb046;
+	color: #fff;
+}
+
+.pos .mode-button.selected-mode:hover {
+	background: #75af49;
+	color: white;
+	border-color: #7bb046;
+}
+
+.sales-deshboard-graph-screen .warehouse-list {
+	box-shadow: 0 0 5px 0 #333;
+}
+
+.pos .payment-screen .delivery_table td, .pos .payment-screen .delivery_table td input
+	{
+	border: 1px solid #75af49;
+}
+
+.product-details-box .product-detail input, .product-details-box .product-detail select
+	{
+	border: 1px solid #7bb046;
+}
+
+.pos .popup .footer {
+	border-top: solid 1px #7bb046;
+}
+
+#detailed_top_product_data {
+	box-shadow: 0 0 5px 0 #333;
+}
+
+.tabs-menu li.current {
+	background: #DEAF82;
+}
+
+.pos .popup .pos_close_popup {
+	background-color: #7bb046;
+}
+
+.pos .popup.lock_popup {
+	background-color: #7bb046;
+}
+
+.close-lock-btn, .close-popup-btn {
+	background: #DEAF82;
+	color: #333;
+}
+
+.product-detail-list thead tr {
+	background: #7BB046;
+	color: #fff;
+}
+
+#search_category {
+	color: #333;
+	border: 1px solid #75af49;
+}
+
+.pos .lock-btn span {
+	border: 1px solid #fff;
+}
+
+.pos .popup.lock_popup {
+	border: 10px solid #fff;
+}
+
+.pos .popup.pos_close_popup {
+	background-color: #75af49;
+}
+
+.close-pos-btn span {
+	border: 1px solid #fff;
+}
+
+.pos .order-button.selected {
+	background: #acd5d7;
+}
+
+.pos .selected-menu {
+	background: #ACD5D6;
+}
+
+/* .pos .oe_statu .oe_green, .pos .oe_icon.oe_green {
+	color: rgb(240, 238, 238);
+} */
+.productlist-screen .pro_width_set2 .pro_width_set4 .button {
+	background: #f3b695;
+}
+
+.sidebar-nav li a:hover {
+	color: #fff !important;
+	background: #75af49;
+}
+
+.pos .graph-screen .selected_chart {
+	background: #75af49;
+	color: white;
+}
+
+.pos .graph-screen  .menu_selected {
+	background: #75af49;
+	color: white;
+}
+
+#order_note {
+	border: 1px solid #75af49;
+}
+
+.pos .payment-screen #email_id {
+	border: 1px solid #7bb046;
+}
+
+.pos .control-button {
+	background: #f0eeee;
+	border: solid 2px #f3b695;
+}
+
+#draggablePanelList .panel-heading {
+	background-color: #f3b695;
+	color: #333;
+}
+
+.pos textarea:focus {
+	box-shadow: 0 0 0 1px #ccc;
+}
+
+button#first {
+	color: #fff !important;
+	background: #7bb046 !important;
+	border: none;
+}
+
+button#previous {
+	color: #fff !important;
+	background: #7bb046 !important;
+	border: none;
+}
+
+button#next {
+	color: #fff !important;
+	background: #7bb046 !important;
+	border: none;
+}
+
+button#last {
+	color: #fff !important;
+	background: #7bb046 !important;
+	border: none;
+}
+
+.pos .out_stock_header {
+	background: #7bb046;
+	color: #fff;
+}
+
+.pos_tab_session button.active {
+	background: #f3b695;
+}
+
+.pos .quickpay .control-button {
+	background: #f3b695;
+	border: solid 2px #f3b695;
+	color: #333;
+}
